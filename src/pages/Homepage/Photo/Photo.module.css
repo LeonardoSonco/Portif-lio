@@ -1,0 +1,13 @@
+
+.border_photo{
+    box-shadow: 0 0 10px white;
+    z-index: 1;
+}
+
+/* linear-gradient(
+    0deg,
+    rgba(25, 39, 51, 1) 0%,
+    rgba(25, 39, 51, 1) 42%,
+    rgba(71, 74, 77, 1) 70%,
+    rgba(107, 106, 106, 1) 96%
+  );*/

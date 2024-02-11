@@ -1,0 +1,9 @@
+.maxWidth{
+    max-width: 800px;
+}
+
+.scale:hover{
+    scale: 1.05;
+    transition: all;
+    transition-duration: 200ms;
+}

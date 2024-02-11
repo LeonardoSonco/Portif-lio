@@ -1,0 +1,10 @@
+.photoNameHeight {
+  height: 75vh;
+}
+
+@media screen and (max-width: 1024px) {
+  .photoNameHeight {
+    height: auto;
+  }
+}
+

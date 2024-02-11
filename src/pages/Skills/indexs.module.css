@@ -1,0 +1,26 @@
+.borderline {
+ 
+  border-bottom: 1px solid gray;
+  background-image: linear-gradient(0deg, #000000, #1e1e20);
+}
+
+.maxWidth {
+  max-width: 1300px;
+}
+
+.skillsTitle {
+  opacity: 1;
+  transform: translateY(-20px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.skillsDescription {
+  opacity: 1;
+  transform: translateY(-20px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.skillsVisible {
+  opacity: 1;
+  transform: translateY(0);
+}
