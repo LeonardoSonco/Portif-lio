@@ -35,8 +35,6 @@ export default function NavMenu() {
     };
   }, [isNavOpen]);
 
-  
-
   return (
     <>
       {menuHamburguer ? (
@@ -45,9 +43,8 @@ export default function NavMenu() {
         
         "
         >
-          <a href="/">
-            <h1 className="text-4xl text-verdeVibrante">LS</h1>
-          </a>
+          <h1 className="text-4xl text-verdeVibrante">LS</h1>
+
           <nav>
             <section className="MOBILE-MENU flex lg:hidden">
               <div
@@ -143,9 +140,7 @@ export default function NavMenu() {
       ) : (
         <header className="py-5 animate-fade animate-once animate-ease-in ">
           <div className="flex justify-between items-center px-20 text-white">
-            <a href="#">
-              <h1 className="text-4xl text-verdeVibrante">LS</h1>
-            </a>
+            <h1 className="text-4xl text-verdeVibrante cursor-pointer">LS</h1>
 
             <nav className=" flex gap-10 font-bold">
               <Link

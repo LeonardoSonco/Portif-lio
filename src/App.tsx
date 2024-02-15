@@ -1,6 +1,4 @@
 // App.jsx
-
-import React, { useEffect, useState } from "react";
 import "./App.css";
 import NavMenu from "./components/NavMenu/indexs";
 import HomePage from "./pages/Homepage/Homepage";

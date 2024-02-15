@@ -1,7 +1,7 @@
 // scrollUtils.js
 
 import { useEffect, useState } from "react";
-import { scroller } from "react-scroll";
+
 
 export const useScrollVisibility = (
   elementId: string,
