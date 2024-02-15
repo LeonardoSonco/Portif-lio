@@ -1,11 +1,12 @@
 import { useScrollVisibility } from "../../utils/scrolUtils";
 import data from "./data.json";
+
 import { Element } from "react-scroll";
 import style from "./indexs.module.css";
 import { useEffect, useState } from "react";
 export default function WorkPage() {
   const isVisibleWorkName = useScrollVisibility("workName", 200);
-
+  
   const [isVisibleWorks, setIsVisibleWorks] = useState<number[]>([]);
   const [visibleProjects, setVisibleProjects] = useState(3);
   const isVisibleButtonSeeMore = useScrollVisibility("seeMore", 150);
@@ -38,9 +39,10 @@ export default function WorkPage() {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
-
+  console.log("data:" + data[0].imagem)
   return (
     <section id="work" className="pt-4">
+      <img src="https://projetaronline.com/wp-content/uploads/2022/11/casa-pequena-planta-baixa-0.png" alt="" />
       <Element
         name="workName"
         id="workName"

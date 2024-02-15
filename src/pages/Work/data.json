@@ -5,7 +5,7 @@
     "descricao": "Projeto desenvolvido para o terceiro desafio do programa de bolsas de Desenvolvimento Front-End, utilizando React, TypeScript, Graphql e Jest. Se trata de um site de restaurantes, algo parecido com os aplicativos de delivery de comida. (A parte do banco de dados foi desativada, impossibilitando o total funcionamento do site, sendo assim só está disponível para a visualização o código desenvolvido.)",
     "demo": "",
     "repositorio": "https://github.com/LeonardoSonco/Technical_Challenge_03",
-    "imagem": "/images/fitme.png"
+    "imagem": "Portifolio/images/fitme.png"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "descricao": "Projeto criado para o segundo desafio de codificação do Estágio UOL Compass. Trata-se de um site de compra em venda de imagens NFT.",
     "demo": "",
     "repositorio": "https://github.com/Victor-B-S/NFT-Marketplace",
-    "imagem": "/images/nftMarketplace.png"
+    "imagem": "Portifolio/images/nftMarketplace.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "descricao": "Projeto desenvolvido com a finalidade de treinar a utilização de React-js e Tailwind CSS, como também o consumo de APIs. Se trata de um site de clima tempo, onde é possivel busca localizações para saber o clima do dia do local.",
     "demo": "",
     "repositorio": "https://github.com/LeonardoSonco/Climex",
-    "imagem": "/images/climex.png"
+    "imagem": "Portifolio/images/climex.png"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "descricao": "Projeto de um jogo desenvolvido para fins educativos em Javascript, onde o objetivo é matar todos os mosquitos em um determinado tempo.",
     "demo": "",
     "repositorio": "https://github.com/LeonardoSonco/MataMosquito",
-    "imagem": "/images/mosquito.png"
+    "imagem": "Portifolio/images/mosquito.png"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "descricao": "Projeto de uma réplica do facebook feita com intuito educativo, de treinamento do boostrap juntamente com html e css. Todas as imagens e nomes são meramente ilustrativas.",
     "demo": "https://leonardosonco.github.io/ReplicaFacebok/",
     "repositorio": " https://github.com/LeonardoSonco/ReplicaFacebok",
-    "imagem": "/images/facebook.png"
+    "imagem": "Portifolio/images/facebook.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "descricao": "Projeto de um réplica do Spotify para fins educacionais, colocando em prática Html, Css e Bootstrap.",
     "demo": "https://leonardosonco.github.io/Spotify/",
     "repositorio": " https://github.com/LeonardoSonco/Spotify",
-    "imagem": "/images/spotify.png"
+    "imagem": "Portifolio/images/spotify.png"
   },
   {
     "id": 7,
@@ -53,6 +53,6 @@
     "descricao": "Projeto de um site de organização financeira, realizado para treinar Html e Bootstrap.",
     "demo": "https://leonardosonco.github.io/Finans/",
     "repositorio": "https://github.com/LeonardoSonco/Finans",
-    "imagem": "/images/finans.png"
+    "imagem": "Portifolio/images/finans.png"
   }
 ]
