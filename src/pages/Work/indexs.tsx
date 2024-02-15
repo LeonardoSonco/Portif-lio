@@ -42,7 +42,6 @@ export default function WorkPage() {
   console.log("data:" + data[0].imagem)
   return (
     <section id="work" className="pt-4">
-      <img src="https://projetaronline.com/wp-content/uploads/2022/11/casa-pequena-planta-baixa-0.png" alt="" />
       <Element
         name="workName"
         id="workName"
