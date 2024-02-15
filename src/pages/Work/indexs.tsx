@@ -39,7 +39,6 @@ export default function WorkPage() {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
-  console.log("data:" + data[0].imagem)
   return (
     <section id="work" className="pt-4">
       <Element

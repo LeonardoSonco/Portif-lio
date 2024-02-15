@@ -5,7 +5,7 @@
     "descricao": "Projeto desenvolvido para o terceiro desafio do programa de bolsas de Desenvolvimento Front-End, utilizando React, TypeScript, Graphql e Jest. Se trata de um site de restaurantes, algo parecido com os aplicativos de delivery de comida. (A parte do banco de dados foi desativada, impossibilitando o total funcionamento do site, sendo assim só está disponível para a visualização o código desenvolvido.)",
     "demo": "",
     "repositorio": "https://github.com/LeonardoSonco/Technical_Challenge_03",
-    "imagem": "Portifolio/images/fitme.png"
+    "imagem": "../../../assets/fitme.png"
   },
   {
     "id": 2,
