@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getDownloadURL, getStorage, ref } from "firebase/storage";
 import { DocumentData, getDocs, getFirestore } from "firebase/firestore";
 
-import {collection } from "firebase/firestore";
+import { collection } from "firebase/firestore";
 const firebaseConfig = {
   apiKey: "AIzaSyD_WDt17WYHeaL_ROWaZKTgJjUY9orl9d4",
   authDomain: "portifolio-3b575.firebaseapp.com",

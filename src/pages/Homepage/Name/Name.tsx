@@ -32,8 +32,8 @@ export default function Name() {
           </p>
         </div>
         <ul className="flex justify-around w-full px-16">
-          <a href="https://www.linkedin.com/in/leonardo-sonco/">
-            <li className={`border-2 border-verdeVibrante rounded-full w-16 h-16 flex justify-center max-lg:w-12 max-lg:h-12 animate-flip-up animate-once animate-delay-[500ms] animate-ease-out ${style.scale}`}>
+          <a href="https://www.linkedin.com/in/leonardo-sonco/" className="cursor-pointer">
+            <li className={`border-2 border-verdeVibrante  rounded-full w-16 h-16 flex justify-center max-lg:w-12 max-lg:h-12 animate-flip-up animate-once animate-delay-[500ms] animate-ease-out ${style.scale}`}>
               <img src={iconLinkedin} alt="" className="w-10 max-lg:w-8" />
             </li>
           </a>
