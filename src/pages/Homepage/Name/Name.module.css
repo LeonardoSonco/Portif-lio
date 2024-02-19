@@ -7,3 +7,23 @@
     transition: all;
     transition-duration: 200ms;
 }
+
+
+.tooltip {
+    position: absolute;
+    bottom: calc(100% + 5px); /* Posição abaixo do ícone */
+    left: 50%; /* Centralizado em relação ao ícone */
+    transform: translateX(-50%); /* Centralizado horizontalmente */
+    background-color: rgba(0, 0, 0, 0.8); /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 5px 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Borda arredondada */
+    font-size: 12px; /* Tamanho da fonte */
+    opacity: 0; /* Inicialmente invisível */
+    transition: opacity 0.3s; /* Transição suave */
+  }
+  
+  /* Quando o mouse estiver sobre o ícone, torna a caixa de texto visível */
+  li:hover .tooltip {
+    opacity: 1;
+  }
