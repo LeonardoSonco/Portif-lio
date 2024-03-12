@@ -45,7 +45,7 @@ export default function SkilPage() {
         <Element
           name="skill"
           id="skill"
-          className={`text-white  ${
+          className={`text-white max-w-7xl mx-auto ${
             isVisibleSkill ? "opacity-100" : "opacity-0"
           } transition-opacity duration-1000 `}
         >
