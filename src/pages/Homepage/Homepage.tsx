@@ -8,7 +8,7 @@ export default function Homepage() {
       <div
         className={`grid grid-cols-7 items-start mt-32 ${style.photoNameHeight}
         max-lg:flex max-lg:flex-col-reverse max-lg:mb-20 max-lg:items-center max-lg:mt-10
-        
+        max-w-7xl mx-auto
         `}
       >
         <Name />

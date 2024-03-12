@@ -1,6 +1,6 @@
 // App.jsx
 import "./App.css";
-import NavMenu from "./components/NavMenu/indexs";
+import Header from "./components/Header/indexs";
 import HomePage from "./pages/Homepage/Homepage";
 import SkillPage from "./pages/Skills/indexs";
 import WorkPage from "./pages/Work/indexs";
@@ -10,7 +10,7 @@ import Footer from "./components/Footer/indexs";
 function App() {
   return (
     <div className="App">
-      <NavMenu />
+      <Header />
       <HomePage />
       <SkillPage />
       <WorkPage />

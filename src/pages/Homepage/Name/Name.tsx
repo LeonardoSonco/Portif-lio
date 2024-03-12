@@ -8,7 +8,7 @@ import style from "./Name.module.css";
 export default function Name() {
   return (
     <>
-      <div className="flex flex-col items-center col-span-4 justify-self-center">
+      <div className="flex flex-col items-center col-span-4 justify-self-start">
         <div className="flex flex-col justify-center mb-6 gap-4 max-sm:text-center max-sm:mt-8 animate-fade-down animate-once animate-delay-[4ms] animate-ease-linear">
           <span className="text-2xl font-bold text-verdeVibrante max-lg:text-xl">
             Hi, I'm

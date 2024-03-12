@@ -79,7 +79,7 @@ export default function WorkPage() {
   }, []);
 
   return (
-    <section id="work" className="pt-4">
+    <section id="work" className="pt-4 max-w-6xl mx-auto">
       <Element
         name="workName"
         id="workName"

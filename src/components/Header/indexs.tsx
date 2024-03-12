@@ -39,7 +39,7 @@ export default function NavMenu() {
     <>
       {menuHamburguer ? (
         <header
-          className="flex justify-between items-center mx-11 mt-10 animate-fade animate-once animate-ease-in animate-delay-150
+          className="flex justify-between items-center mx-11 mt-10 animate-fade animate-once animate-ease-in animate-delay-150 
         
         "
         >
@@ -139,7 +139,7 @@ export default function NavMenu() {
         </header>
       ) : (
         <header className="py-5 animate-fade animate-once animate-ease-in ">
-          <div className="flex justify-between items-center px-20 text-white">
+          <div className="flex justify-between items-center px-20 text-white max-w-7xl mx-auto">
             <h1 className="text-4xl text-verdeVibrante cursor-pointer">LS</h1>
 
             <nav className=" flex gap-10 font-bold">
